@@ -1,7 +1,5 @@
 # My personal and professional blog
 
-A stylish, fully custom, and practical first point of contact for prospective new members.
-
 **Url**: <https://blog.jgallardo.dev/>
 
 ## Credits
